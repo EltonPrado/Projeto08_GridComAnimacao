@@ -6,7 +6,7 @@
 
 O projeto foi desenvolvido como desafio do curso Explorer da Rocketseat. 
 
-O desafio desse projeto consiste na criação de uma animação simples em uma landing page trabalhando com animações e mobile first. 
+O desafio desse projeto consiste na criação de uma animação simples em uma landing page trabalhando com animações em grid e mobile first. 
 
 <br>
 
