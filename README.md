@@ -11,8 +11,8 @@ O desafio desse projeto consiste na criação de uma animação simples em uma l
 <br>
 
 <p>
-  <img alt="projeto Habits" src=".github/desktop.jpg" width="80%">
-  <img alt="projeto Habits" src=".github/mobile.jpg" width="16%">
+  <img alt="imagem do projeto grid com animação" src=".github/desktop.jpg" width="80%">
+  <img alt="imagem projeto grid com animação" src=".github/mobile.jpg" width="16%">
 </p>
 
 <br>
