@@ -38,7 +38,9 @@ O intuito do projeto foi colocar em prática os conhecimentos acerca de:
   - grid-template-columns / grid-template-rows / grid-column / grid-auto-flow
   - place-content / align-items / justify-content / justify-content
   - centralizar div com position/grid/flex/margin
+  - gap / padding
   - clamp
+  - HTML
 
 <br>
 
